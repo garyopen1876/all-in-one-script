@@ -1,3 +1,3 @@
-# all-in-one-scripts
+# all-in-one-script
 
 install basic software with scripts
