@@ -1,6 +1,6 @@
 # all-in-one-script
 
-install basic software with scripts ! enjoy!
+install basic software with scripts !
 
 ## linux
 use terminal cd to your install.sh path and enter:
